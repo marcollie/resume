@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Ubuntu&display=swap");
+
+.head {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
+  text-align: center;
+  margin: 30px;
+}
+
+.contact {
+  text-align: center;
+}
+
+.git a{
+  text-decoration: none;
+  color: black;
+}
+
+
+
+.aboutme {
+  padding: 2rem;
+}
