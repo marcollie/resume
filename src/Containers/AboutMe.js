@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components'
 
 const Wrap = styled.div`
-  margin:  2rem 7rem 2rem 7rem;
+  margin:  0 7rem 2rem 7rem;
 `
 
 const Skill = styled.div`
@@ -42,11 +42,11 @@ const AboutMe = () => {
         </p>
         <br />
         <Skill>
-          <H4 onClick={mouseClick}>Skill 
+          <H4 onClick={mouseClick}>Skills
             <h4 id="sBar" style={{display:"inline"}}> &lt; </h4>
           </H4>
           <p id="skills" style={{display:"none"}}>
-            PhotoShop&ensp;  Illustrator&ensp;  HTML5&ensp;  CSS&ensp;  JavaScript&ensp;  React
+            HTML5&ensp;  CSS&ensp;  JavaScript&ensp;  React&ensp; PhotoShop&ensp;  Illustrator  
           </p>
         </Skill>
       </Wrap>

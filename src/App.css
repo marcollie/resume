@@ -1,5 +1,5 @@
 * {
-  padding: 0;
+  padding: 3px;
   margin: 0;
 }
 
@@ -20,8 +20,6 @@
   text-decoration: none;
   color: black;
 }
-
-
 
 .aboutme {
   padding: 2rem;
