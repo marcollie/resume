@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/resume/static/css/main.ee32f4c9.chunk.css",
-    "main.js": "/github.io/resume/static/js/main.2cf5c275.chunk.js",
-    "main.js.map": "/github.io/resume/static/js/main.2cf5c275.chunk.js.map",
-    "runtime-main.js": "/github.io/resume/static/js/runtime-main.0cf598a5.js",
-    "runtime-main.js.map": "/github.io/resume/static/js/runtime-main.0cf598a5.js.map",
-    "static/js/2.5b78ec92.chunk.js": "/github.io/resume/static/js/2.5b78ec92.chunk.js",
-    "static/js/2.5b78ec92.chunk.js.map": "/github.io/resume/static/js/2.5b78ec92.chunk.js.map",
-    "index.html": "/github.io/resume/index.html",
-    "precache-manifest.062b4b2110cfce103064f5067cd337a8.js": "/github.io/resume/precache-manifest.062b4b2110cfce103064f5067cd337a8.js",
-    "service-worker.js": "/github.io/resume/service-worker.js",
-    "static/css/main.ee32f4c9.chunk.css.map": "/github.io/resume/static/css/main.ee32f4c9.chunk.css.map"
+    "main.css": "/resume/static/css/main.ee32f4c9.chunk.css",
+    "main.js": "/resume/static/js/main.2cf5c275.chunk.js",
+    "main.js.map": "/resume/static/js/main.2cf5c275.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.4ae24eb6.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.4ae24eb6.js.map",
+    "static/js/2.436cecd9.chunk.js": "/resume/static/js/2.436cecd9.chunk.js",
+    "static/js/2.436cecd9.chunk.js.map": "/resume/static/js/2.436cecd9.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.76d322372d22a7cbf66c20b1e99e5c6e.js": "/resume/precache-manifest.76d322372d22a7cbf66c20b1e99e5c6e.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.ee32f4c9.chunk.css.map": "/resume/static/css/main.ee32f4c9.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cf598a5.js",
-    "static/js/2.5b78ec92.chunk.js",
+    "static/js/runtime-main.4ae24eb6.js",
+    "static/js/2.436cecd9.chunk.js",
     "static/css/main.ee32f4c9.chunk.css",
     "static/js/main.2cf5c275.chunk.js"
   ]
